@@ -1,0 +1,4 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hisunny520/vue-admin.git
+	branch = dev-electron
